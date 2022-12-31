@@ -31,7 +31,7 @@
 ## 安装
 
 ```shell
-$ composer require raison/easy-tts-laravel
+$ composer require shebaoting/easy-tts-laravel
 ```
 
 ## 各平台配置说明
